@@ -1,2 +1,1 @@
-# nature-photography-expo
-Nature Photography Expo 2026 is a beginner-friendly HTML project that showcases a photography exhibition featuring nature, wildlife, waterfalls, and sunset collections. The website provides event information, registration, and contact details using only basic HTML tags.
+Nature Photography Expo 2026 is a static HTML website created as a beginner web development project. It demonstrates the use of fundamental HTML concepts including headings, paragraphs, images, hyperlinks, horizontal rules, and page structure. The website presents a photography exhibition with nature-themed galleries, event highlights, registration details, and contact information without using CSS or JavaScript.
